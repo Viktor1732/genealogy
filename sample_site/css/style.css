@@ -1,0 +1,47 @@
+/* header */
+.header{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #add6ff;
+    justify-content: space-around;
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.logo-img{
+    width: 60px;
+    height: 50px;
+}
+
+.header-menu{
+    display: flex;
+    column-gap: 40px;
+}
+
+.menu-link{
+    color: #191970;
+}
+
+.header-aut{
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+}
+
+.lang-wrap{
+    display: flex;
+    align-items: center;
+}
+
+.language-img{
+    width: 25px;
+    height: 25px;
+}
+
+.language-text{
+    margin-left: 7px;
+}
+
